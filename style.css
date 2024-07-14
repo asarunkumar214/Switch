@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+
+#rt{
+    height: 700px;
+    width: 1500px;
+    margin-top: 0px;
+}
+#m{
+    height: 30px;
+    width: 100px;
+    border: 2px solid black;
+    border-style:dashed;
+    border-radius: 5px;
+    background:linear-gradient(90deg,rgb(12, 12, 12),rgb(244, 154, 58),rgb(13, 13, 14));
+    margin-left: 650px;
+    
+
+}
+#m:hover{
+    background: linear-gradient(95deg,rgb(2, 190, 253),rgb(245, 0, 171),rgb(4, 184, 244));
+}
